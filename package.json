@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mcordingley/css-grid-layout.git"
+    "url": "https://github.com/mcordingley/basscss-grid-layout.git"
   },
   "scripts": {
     "prepare": "npm run build",
@@ -15,7 +15,7 @@
   "files": ["css/**/*"],
   "style": "css/grid-layout.css",
   "bugs": {
-    "url": "https://github.com/mcordingley/css-grid-layout/issues"
+    "url": "https://github.com/mcordingley/basscss-grid-layout/issues"
   },
-  "homepage": "https://github.com/mcordingley/css-grid-layout"
+  "homepage": "https://github.com/mcordingley/basscss-grid-layout"
 }
