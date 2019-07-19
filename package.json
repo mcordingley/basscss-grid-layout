@@ -10,10 +10,10 @@
   },
   "scripts": {
     "prepare": "npm run build",
-    "build": "mkdir -p dist && cp src/index.css dist/index.css"
+    "build": "mkdir -p css && cp src/index.css css/grid-layout.css"
   },
-  "files": ["dist/**/*"],
-  "style": "dist/index.css",
+  "files": ["css/**/*"],
+  "style": "css/grid-layout.css",
   "bugs": {
     "url": "https://github.com/mcordingley/css-grid-layout/issues"
   },
