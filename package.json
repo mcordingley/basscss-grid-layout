@@ -4,6 +4,14 @@
   "description": "Grid Layout Using CSS Grid",
   "author": "Michael Cordingley",
   "license": "MIT",
+  "keywords": [
+    "atomic css",
+    "basscss",
+    "css",
+    "functional css",
+    "grid",
+    "oocss"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mcordingley/basscss-grid-layout.git"
