@@ -157,3 +157,9 @@
 .justify-self-end { justify-self: end; }
 .justify-self-start { justify-self: start; }
 .justify-self-stretch { justify-self: stretch; }
+
+.grid-auto-flow-column { grid-auto-flow: column; }
+.grid-auto-flow-column-dense { grid-auto-flow: column dense; }
+.grid-auto-flow-dense { grid-auto-flow: dense; }
+.grid-auto-flow-row { grid-auto-flow: row; }
+.grid-auto-flow-row-dense { grid-auto-flow: row dense; }
