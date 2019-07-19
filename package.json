@@ -1,6 +1,6 @@
 {
   "name": "basscss-grid-layout",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Grid Layout Using CSS Grid",
   "author": "Michael Cordingley",
   "license": "MIT",
@@ -20,7 +20,9 @@
     "prepare": "npm run build",
     "build": "mkdir -p css && cp src/index.css css/grid-layout.css"
   },
-  "files": ["css/**/*"],
+  "files": [
+    "css/**/*"
+  ],
   "style": "css/grid-layout.css",
   "bugs": {
     "url": "https://github.com/mcordingley/basscss-grid-layout/issues"
